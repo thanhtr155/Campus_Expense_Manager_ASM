@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:text="Add Expense"
             android:layout_weight="1"
-            android:backgroundTint="#E893C5"
+            android:backgroundTint="#4366EB"
             android:textColor="@color/white"
             android:layout_gravity="end" />
     </LinearLayout>
@@ -92,6 +92,7 @@
         android:id="@+id/button_set_budget"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="#FF5722"
         android:text="Set Budget"/>
 
     <Button

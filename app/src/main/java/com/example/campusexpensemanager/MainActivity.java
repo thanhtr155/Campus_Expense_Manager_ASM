@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         Button btnExpenseTracking = findViewById(R.id.fuction_button1);
         Button logoutButton = findViewById(R.id.btnLogout);
 

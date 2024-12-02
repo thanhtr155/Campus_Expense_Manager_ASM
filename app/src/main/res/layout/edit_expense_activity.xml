@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Back"
-        android:backgroundTint="@color/brown"
+        android:backgroundTint="#4C6BDB"
         android:textColor="@android:color/white"
         android:layout_gravity="start" />
 
@@ -22,7 +22,7 @@
         android:text="Edit Expense"
         android:textSize="30sp"
         android:textStyle="bold"
-        android:textColor="@color/brown"
+        android:textColor="@color/black"
         android:gravity="center"
         android:layout_marginTop="32dp"
         android:layout_marginBottom="16dp" />
@@ -54,7 +54,7 @@
         android:id="@+id/button_save"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/Orange"
+        android:backgroundTint="@color/orange"
         android:text="Save" />
 
 </LinearLayout>
